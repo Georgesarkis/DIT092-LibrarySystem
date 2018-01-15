@@ -1,0 +1,28 @@
+git config --global user.name "Georgesarkis"
+git config --global user.email "sakogeorge@gmail.com"
+
+create new repository on github webpage
+add  people ass clabratles
+
+
+git clone https://github.com/.......test.git   from github when creating a repasotry
+
+git ls to find the file position
+after that
+cd test    change the directory  to get in the folder you can olso open the folder and pres on open the bash here
+
+git pull 
+"edit"
+git pull 
+git add .  or git add textname.txt
+git status  to check everything
+git commit -m"massage"					VIM to go out of vim :wq
+
+git pull
+git push
+
+
+git push origin -d yhname of the brange) 
+git fech (you get the brach from repository)
+git morg (mourges master to branch you are in)
+git checkout -b
